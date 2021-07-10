@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rss_site_url0001">http://umamusu.blog.jp/index.rdf</string>
+    <string name="rss_site_url0002">https://umamusume.5chmap.com/?feed=608</string>
+    <string name="rss_site_url0003">https://umamusume.5chmap.com/?feed=658</string>
+
+    <!-- RSSサイトアドレス -->
+    <string-array name="rss_url">
+        <item>@string/rss_site_url0001</item>
+        <item>@string/rss_site_url0002</item>
+        <item>@string/rss_site_url0003</item>
+    </string-array>
+
+    <string name="rss_site_name0001">【ウマ娘まとめプロジェクト】</string>
+    <string name="rss_site_name0002">【ウマ娘攻略まとめGS】</string>
+    <string name="rss_site_name0003">【ウマ娘 プリティーダービーまとめ攻略 ゲームストライク！】</string>
+
+    <!-- RSSサイト名 -->
+    <string-array name="rss_site_name">
+        <item>@string/rss_site_name0001</item>
+        <item>@string/rss_site_name0002</item>
+        <item>@string/rss_site_name0003</item>
+    </string-array>
+
+    <string-array name="setting_thema_labels">
+        <item>ライトテーマ</item>
+        <item>ダークテーマ</item>
+    </string-array>
+    <string-array name="setting_thema_values">
+        <item>light</item>
+        <item>dark</item>
+    </string-array>
+</resources>
